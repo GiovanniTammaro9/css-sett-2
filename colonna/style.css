@@ -1,0 +1,12 @@
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.testo{
+    column-count: 3;
+    text-align: justify;
+}
