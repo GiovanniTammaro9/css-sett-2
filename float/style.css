@@ -1,3 +1,17 @@
+html{
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+}
+
+.box{
+    margin: 30px;
+    padding: 30px;
+    border: red;
+}
+
 img{
     float: right;
 }
