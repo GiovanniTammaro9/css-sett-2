@@ -1,0 +1,17 @@
+:root{
+    --padding-principale: 40px;
+}
+
+
+:root{
+    --colore-principale: red;
+}
+
+*{
+    color: var(--colore-principale);
+}
+
+h1{
+    padding: var(--padding-principale);
+}
+
