@@ -1,0 +1,23 @@
+#span1{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: aquamarine;
+    display: inline;
+}
+
+#span2{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+#span3{
+    width: 100px;
+    height: 200px;
+    border: 1px solid blue;
+    background-color: aquamarine;
+    display: block;
+}
