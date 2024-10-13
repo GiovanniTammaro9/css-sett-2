@@ -15,3 +15,7 @@ body{
 img{
     float: right;
 }
+
+#hello{
+    clear: both;
+}
